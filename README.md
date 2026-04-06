@@ -9,5 +9,5 @@
 
 ## About
 
-- 記録は将来、職務経歴書の自動生成やスキルの棚卸しに活用します
+
 - 記事テンプレート: [templates/til-template.md](templates/til-template.md)
